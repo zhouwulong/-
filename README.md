@@ -1,5 +1,6 @@
 # vue-one
 
+2019.11.21 创建
 ## Project setup
 ```
 npm install
